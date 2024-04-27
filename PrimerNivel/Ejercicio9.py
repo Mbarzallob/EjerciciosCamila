@@ -1,0 +1,1 @@
+#Pide un numero al cliente e imprime al tabla de ese numero 

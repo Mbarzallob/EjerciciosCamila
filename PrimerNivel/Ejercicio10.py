@@ -1,0 +1,1 @@
+# Realiza un programa que imprima una cuenta regresica, desde un numero N, si puedes hazlo con la libreria time, para que haya un tiempo desde que se imprime el otro, o sino solo que se lea

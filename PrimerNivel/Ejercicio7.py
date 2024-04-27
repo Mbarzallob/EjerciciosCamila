@@ -1,0 +1,1 @@
+#Crea un programa que devuelva un string ingresado por el usuario invertido(ejm: "hola" = "aloh")

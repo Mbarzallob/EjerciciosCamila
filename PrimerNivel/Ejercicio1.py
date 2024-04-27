@@ -1,0 +1,1 @@
+# Imprime los numeros pares de 0 a N(variable ingresada por el usuario), y al final realiza la suma de todos los numeros impresos

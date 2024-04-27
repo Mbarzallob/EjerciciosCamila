@@ -1,0 +1,1 @@
+#Genera un numero aleatorio del 1 al 100 y pide al usuario que lo adivine, dando pistas, si es mayor o menor (tendras que instalar la libreria random y realizar el ejericicio)
